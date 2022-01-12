@@ -11877,7 +11877,7 @@ footer.footer .social-link:hover {
     padding-bottom: 8rem;
     background: linear-gradient(
             90deg,
-            rgba(31, 15, 15, 0.2) 10%,
+            rgba(0, 0, 0, 0.4) 10%,
             rgba(109, 91, 10, 0.2) 100%
         ),
         url("../assets/img/pexels-sharon-mccutcheon-1909802.jpg");
@@ -11897,7 +11897,7 @@ footer.footer .social-link:hover {
     }
     .masthead h1,
     .masthead .h1 {
-        color: rgb(233, 178, 29);
+        color: rgb(255, 187, 0);
         font-size: 5.5rem;
     }
 }
