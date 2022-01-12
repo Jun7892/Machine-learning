@@ -37,7 +37,11 @@ Common : Github, Slack, Notion
 - 불필요한 단어 제거
 
 (3). Model & Algorithms
-- 
+- Wordcloud : 
+- 상관관계 : 
+- graphical lasso : 
+- 연관규칙 : 
+- 시계열 분석 : 
 
 (4). Report - jupyter notebook with R로 작성
 
