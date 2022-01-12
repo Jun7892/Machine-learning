@@ -22,6 +22,7 @@
 
 Front-End : 
 Back-End : 
+AI :
 Common : Git, Github, Slack, Notion
 
 ### 📌 주요 기능
