@@ -3132,8 +3132,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #1d809f;
-    border-color: #1d809f;
+    background-color: #ffbb00;
+    border-color: #ffbb00;
 }
 .btn-primary:hover {
     color: #fff;
@@ -3153,8 +3153,8 @@ fieldset:disabled .btn {
 .btn-primary.active,
 .show > .btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #17667f;
-    border-color: #166077;
+    background-color: #ffbb00;
+    border-color: #ffbb00;
 }
 .btn-check:checked + .btn-primary:focus,
 .btn-check:active + .btn-primary:focus,
@@ -11840,10 +11840,10 @@ footer.footer .social-link:hover {
     padding-bottom: 8rem;
     background: linear-gradient(
             90deg,
-            rgba(255, 255, 255, 0.1) 0%,
-            rgba(255, 255, 255, 0.1) 100%
+            rgba(0, 0, 0, 0.4) 10%,
+            rgba(109, 91, 10, 0.2) 100%
         ),
-        url("../image/bg-callout.jpg");
+        url("../image/pexels-sharon-mccutcheon-1909802.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -11860,6 +11860,8 @@ footer.footer .social-link:hover {
     }
     .masthead h1,
     .masthead .h1 {
+        color: rgb(255, 187, 0);
+
         font-size: 5.5rem;
     }
 }
