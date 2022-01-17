@@ -36,7 +36,10 @@
       <h3 class="mb-5"><em> 나는 무슨 상일까?</em></h3>
       <!-- <a class="btn btn-primary btn-xl" href="#about" ondrop="dropHandler(event);"
         ondragover="dragOverHandler(event);">구별 딱대!</a> -->
-      <input class="btn btn-primary btn-xl" id="btn_upload" type="file" value="여기!" onchange="fileupload()" />
+      <!-- <input class="btn btn-primary btn-xl" id="btn_upload" type="file" onchange="fileupload()" /> -->
+      <input id="btn_upload" type="file" onchange="fileupload()" style="display:none" />
+      <label for="btn_upload" class="btn btn-primary btn-xl">구별딱대!</label>
+
     </div>
   </header>
   <script>
